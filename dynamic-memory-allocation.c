@@ -5,7 +5,7 @@
 int main() {
 	
 	int n, i;
-	printf("Kac elemanlik bir array oluşturacaksınız: ");
+	printf("Kac elemanlik bir array oluÃ¾turacaksÃ½nÃ½z: ");
 	scanf("%d", &n);
 	
 	int* arr = (int*)malloc(n*sizeof(n));
